@@ -2,4 +2,5 @@ this is my first text file. haha
 
 fonyuy too. thanks
 
-// This is the comment I made in this branch
+// Redundant comments have been removed
+##  This is the comment I made in this branch
